@@ -4,27 +4,27 @@ import { fileURLToPath } from 'url'
 import fs from 'fs'
 
 global.owner = [
-  ['595983186566', '👑 Mystic - Creador 👑', true],
-  ['1216350-3324', '👑 Mystic - Collaborator 1 👑', true],
-  ['595983186566', '👑 Mystic - Collaborator 2 👑', true],
-  ['595983186566', '👑 Mystic - Collaborator 3 👑', true],
-  ['595983186566', '👑 Mystic - Collaborator 4 👑', true],
-  ['595983186566', '👑 Mystic - Collaborator 5 👑', true],
-  ['595983186566', '👑 Mystic - Collaborator 6 👑', true],
-  ['595983186566', '👑 Mystic - Collaborator 7 👑', true],  
+  ['595983186566', '👑 Sapito - Creador 👑', true],
+  ['524531106422', '👑 Sapito - Creador 2 👑', true],
+  ['524531106422', '👑 Sapito - Collaborator 2 👑', true],
+  ['595983186566', '👑 Sapito - Collaborator 3 👑', true],
+  ['595983186566', '👑 Sapito - Collaborator 4 👑', true],
+  ['524531106422', '👑 Sapito - Collaborator 5 👑', true],
+  ['595983186566', '👑 Sapito - Collaborator 6 👑', true],
+  ['524531106422', '👑 Sapito - Collaborator 7 👑', true],  
   ['595983186566'],
-  ['595983186566'],
+  ['524531106422'],
   ['595983186566'],
   ['595983186566'],
   ['595983186']
 ] 
-global.suittag = ['12163503324'] 
-global.prems = ['12163503324'] 
+global.suittag = ['595983186566'] 
+global.prems = ['524531106422'] 
 
-global.packname = 'Black_Bot'
-global.author = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
-global.wm = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
-global.igfg = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
+global.packname = 'Aqui está su sticker '
+global.author = '★Sapito Bot 🐸★'
+global.wm = '★ Sapito Bot 🐸★'
+global.igfg = '★Sapito Bot 🐸★'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 
 global.keysZens = ['fiktod', 'c2459db922', 'BF39D349845E', '675e34de8a', '37CC845916', '0b917b905e6f', '6fb0eff124']

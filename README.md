@@ -1,4 +1,6 @@
 # `🐸 Sapito_Bot 🐸`
+<div align="center">
+<img src="https://i.ytimg.com/vi/nkhVzxXnuSQ/maxresdefault.jpg" alt="agromosSpbot" width="500" />
 
 ### `—◉ 😈 Tienes Dudas Sobre El Bot? Contáctanos 😈`
 <a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/SNT_OFC-30302f?style=flat&logo=whatsapp" /></a> 
